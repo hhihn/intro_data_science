@@ -1,11 +1,11 @@
 source: https://www.kaggle.com/datasets/crawford/80-cereals
-# About Dataset
+# About the Cereal Dataset
 # Context
 If you like to eat cereal, do yourself a favor and avoid this dataset at all costs. After seeing these data it will never be the same for me to eat Fruity Pebbles again.
 # Content
 Fields in the dataset:
-	-	Name: Name of cereal
-	-	mfr: Manufacturer of cereal
+	1.	Name: Name of cereal
+	2.	mfr: Manufacturer of cereal
 	-	A = American Home Food Products;
 	-	G = General Mills
 	-	K = Kelloggs
